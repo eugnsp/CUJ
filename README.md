@@ -12,3 +12,12 @@
 
 * John W. M. Stevens. [*Lexical Analysis Using Search Tries*](10.04/jstevens/jstevens.md)\
 *This special type of tree is a good fit for language translation applications.*
+
+---
+
+## 1993
+
+### February – Volume 11, Number 2
+
+* David W. Schwartz. [*An Efficient Method for Optimizing Binary Trees*](11.02/schwartz/schwartz.md)\
+*Seems you can always improve how you handle binary trees – David Schwartz shows another useful technique.*
