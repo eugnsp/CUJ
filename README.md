@@ -13,6 +13,11 @@
 * John W. M. Stevens. [*Lexical Analysis Using Search Tries*](10.04/jstevens/jstevens.md)\
 *This special type of tree is a good fit for language translation applications.*
 
+### December – Volume 10, Number 12
+
+* Tim Prince. [*Tuning Up Math Functions*](10.12/prince/prince.md)\
+*Dr. Prince shows that math functions can always be made better.*
+
 ---
 
 ## 1993
