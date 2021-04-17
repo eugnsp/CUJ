@@ -26,3 +26,12 @@
 
 * David W. Schwartz. [*An Efficient Method for Optimizing Binary Trees*](11.02/schwartz/schwartz.md)\
 *Seems you can always improve how you handle binary trees – David Schwartz shows another useful technique.*
+
+---
+
+## 2000
+
+### February – Volume 18, Number 2
+
+* P. J. Plauger. [*Standard C/C++: A Singly Linked List*](18.02/plauger/plauger.md)\
+*Every design involves tradeoffs. The trick is to tradeoff using much the same principles as for related designs.*
