@@ -29,6 +29,15 @@
 
 ---
 
+## 1998
+
+### November – Volume 16, Number 11
+
+* P. J. Plauger. [*Standard C/C++: Hash Tables*](16.11/plauger/plauger.md)\
+*Hash tables didn't make it into the C++ Standard, but they're too popular to ignore.*
+
+---
+
 ## 1999
 
 ### August – Volume 17, Number 8
