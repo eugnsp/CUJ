@@ -29,6 +29,15 @@
 
 ---
 
+## 1999
+
+### August – Volume 17, Number 8
+
+* P. J. Plauger. [*Standard C/C++: A Better List*](17.08/plauger/plauger.md)\
+*How hard can it be to maintain a linked list? You'd be surprised. Our Senior Editor certainly was.*
+
+---
+
 ## 2000
 
 ### February – Volume 18, Number 2
