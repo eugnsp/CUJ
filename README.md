@@ -31,6 +31,11 @@
 
 ## 1998
 
+### January – Volume 16, Number 1
+
+* Pete Becker. [*Questions & Answers: The Complex Evolution of `<string>`*](16.01/becker/becker.md)\
+*Pete describes how class string got that way, and how to avoid a few pitfalls in writing C expressions.*
+
 ### November – Volume 16, Number 11
 
 * P. J. Plauger. [*Standard C/C++: Hash Tables*](16.11/plauger/plauger.md)\
