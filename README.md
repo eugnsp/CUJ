@@ -53,3 +53,8 @@
 
 * P. J. Plauger. [*Standard C/C++: A Singly Linked List*](18.02/plauger/plauger.md)\
 *Every design involves tradeoffs. The trick is to tradeoff using much the same principles as for related designs.*
+
+### October – Volume 18, Number 10
+
+* Klaus Kreft and Angelika Langer. [*Effective Standard C++ Library: Are `set` Iterators Mutable or Immutable?*](18.10/kreft/kreft.md)\
+*The C++ Standard mandates that containers such as `std::set` provide both mutable and immutable iterators. Unfortunately, mutable iterators turn out to be dangerous when used with sets.*
