@@ -29,6 +29,15 @@
 
 ---
 
+## 1995
+
+### March 1995 – Volume 13, Number 3
+
+* Bob Stout. [*“Olympic” Filtering for Noisy Data*](13.03/stout/stout.md)\
+*Sometimes the simplest techniques yield surprisingly good results. When it comes to filtering input data on a small embedded system, simplicity is a major virtue.*
+
+---
+
 ## 1998
 
 ### January – Volume 16, Number 1
