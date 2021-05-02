@@ -39,6 +39,10 @@
 * Blase B. Cindric. [*When the “Best” Algorithm Isn’t*](13.03/cindric/cindric.md)\
 *Knowledge is power, particularly when choosing an algorithm. The more you know about your data, the better you can tailor how you manipulate it for better performance.*
 
+### April 1995 – Volume 13, Number 4
+
+* Dan Saks. [*Stepping Up to C++: Mutable Class Members*](13.04/saks/saks.md)
+
 ---
 
 ## 1998
