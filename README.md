@@ -36,6 +36,9 @@
 * Bob Stout. [*“Olympic” Filtering for Noisy Data*](13.03/stout/stout.md)\
 *Sometimes the simplest techniques yield surprisingly good results. When it comes to filtering input data on a small embedded system, simplicity is a major virtue.*
 
+* Blase B. Cindric. [*When the “Best” Algorithm Isn’t*](13.03/cindric/cindric.md)\
+*Knowledge is power, particularly when choosing an algorithm. The more you know about your data, the better you can tailor how you manipulate it for better performance.*
+
 ---
 
 ## 1998
