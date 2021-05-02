@@ -52,6 +52,10 @@
 
 * Dan Saks. [*Stepping Up to C++: Mutable Class Members*](13.04/saks/saks.md)
 
+### July 1995 – Volume 13, Number 7
+
+* P. J. Plauger. [*Standard C/C++: The Header `<string>`*](13.07/plauger/plauger.md)
+
 ---
 
 ## 1998
