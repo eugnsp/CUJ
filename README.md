@@ -29,6 +29,15 @@
 
 ---
 
+## 1994
+
+### October – Volume 12, Number 10
+
+* Christopher Skelly. [*Powerful Pointers to Member Functions*](12.10/skelly/skelly.md)\
+*So you thought you finally understood pointers in C. Now meet pointers to members in C++.*
+
+---
+
 ## 1995
 
 ### March 1995 – Volume 13, Number 3
