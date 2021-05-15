@@ -74,6 +74,11 @@
 
 ## 1999
 
+### January – Volume 17, Number 1
+
+* Radoslav Getov. [*Persistent Vector Iterators*](17.01/getov/getov.md)\
+*Template class vector has some annoying properties. But you can hide them, and still make use of the good stuff, by deriving another template class from vector.*
+
 ### August – Volume 17, Number 8
 
 * P. J. Plauger. [*Standard C/C++: A Better List*](17.08/plauger/plauger.md)\
