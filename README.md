@@ -58,6 +58,15 @@
 
 ---
 
+## 1997
+
+### May 1997 – Volume 15, Number 5
+
+* P. J. Plauger. [*Standard C/C++: Implementing Associative Containers*](15.05/plauger/plauger.md)\
+*At the heart of every STL set or map lies a balanced binary tree, or at least a tree that’s almost balanced.*
+
+---
+
 ## 1998
 
 ### January – Volume 16, Number 1
