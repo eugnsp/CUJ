@@ -56,6 +56,13 @@
 
 * P. J. Plauger. [*Standard C/C++: The Header `<string>`*](13.07/plauger/plauger.md)
 
+## 1996
+
+### October 1996 – Volume 14, Number 10
+
+* Chuck Allison. [*C++: The Making of a Standard*](14.10/allison/allison.md)\
+*CUJ’s Chuck Allison interviews Bjarne Stroustrup on his reaction to the imminent completion of the ANSI/ISO C++ Standard.*
+
 ---
 
 ## 1997
