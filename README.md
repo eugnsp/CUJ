@@ -63,6 +63,9 @@
 * Chuck Allison. [*C++: The Making of a Standard*](14.10/allison/allison.md)\
 *CUJ’s Chuck Allison interviews Bjarne Stroustrup on his reaction to the imminent completion of the ANSI/ISO C++ Standard.*
 
+* Marc Marini. [*A Class Hierarchy for Random Number Generation*](14.10/marini/marini.md)\
+*Class derivation makes sense as a way of inheriting mathematical properties, not just common data.*
+
 ---
 
 ## 1997
