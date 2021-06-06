@@ -70,6 +70,11 @@
 
 ## 1997
 
+### March 1997 – Volume 15, Number 3
+
+* Rodney B. Doe, P.E. [*How to Leak Memory in C++*](15.03/doe/doe.md)\
+*Warning: These are untrained professionals at work here. Do not try this at home.*
+
 ### May 1997 – Volume 15, Number 5
 
 * P. J. Plauger. [*Standard C/C++: Implementing Associative Containers*](15.05/plauger/plauger.md)\
