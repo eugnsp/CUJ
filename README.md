@@ -58,6 +58,10 @@
 
 ## 1996
 
+### January 1996 – Volume 14, Number 1
+
+* Dan Saks. [*The Column that Needs a Name: Understanding C++ Declarators*](14.01/saks/saks.md)
+
 ### October 1996 – Volume 14, Number 10
 
 * Chuck Allison. [*C++: The Making of a Standard*](14.10/allison/allison.md)\
