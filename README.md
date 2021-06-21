@@ -93,6 +93,11 @@
 * Pete Becker. [*Questions & Answers: The Complex Evolution of `<string>`*](16.01/becker/becker.md)\
 *Pete describes how class string got that way, and how to avoid a few pitfalls in writing C expressions.*
 
+### September – Volume 16, Number 9
+
+* Thomas Becker. [*Smart Iterators and STL*](16.09/tbecker/tbecker.md)\
+*Because they’re templates, you can smuggle added functionality into STL algorithms all sorts of ways, even through iterators.*
+
 ### November – Volume 16, Number 11
 
 * P. J. Plauger. [*Standard C/C++: Hash Tables*](16.11/plauger/plauger.md)\
