@@ -93,6 +93,11 @@
 * Pete Becker. [*Questions & Answers: The Complex Evolution of `<string>`*](16.01/becker/becker.md)\
 *Pete describes how class string got that way, and how to avoid a few pitfalls in writing C expressions.*
 
+### August – Volume 16, Number 8
+
+* James M. Curran. [*Creating a Word Iterator*](16.08/curran/curran.md)\
+*Iterators can do more than just step through data. They can, for example, do a bit of parsing along the way.*
+
 ### September – Volume 16, Number 9
 
 * Thomas Becker. [*Smart Iterators and STL*](16.09/tbecker/tbecker.md)\
