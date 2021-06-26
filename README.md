@@ -31,6 +31,10 @@
 
 ## 1994
 
+### January – Volume 12, Number 1
+
+* Dan Saks. [*Stepping Up to C++: How Virtual Functions Work*](12.01/saks/saks.md)
+
 ### October – Volume 12, Number 10
 
 * Christopher Skelly. [*Powerful Pointers to Member Functions*](12.10/skelly/skelly.md)\
