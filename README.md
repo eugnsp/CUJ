@@ -78,6 +78,11 @@
 
 ## 1997
 
+### January 1997 – Volume 15, Number 1
+
+* Dan Saks. [*C++ Theory and Practice: `new` and `delete`*](15.01/saks/saks.md)\
+*C++ has a more structured approach than C to allocating storage on the fly, but it’s not always less error prone.*
+
 ### March 1997 – Volume 15, Number 3
 
 * Rodney B. Doe, P.E. [*How to Leak Memory in C++*](15.03/doe/doe.md)\
