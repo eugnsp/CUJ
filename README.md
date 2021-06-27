@@ -135,6 +135,11 @@
 
 ## 2000
 
+### January – Volume 18, Number 1
+
+* Yogi Dandass. [*Interval Trees*](18.01/dandass/dandass.md)\
+*We know that a tree is often a good way to represent an ordered set of values. It can also be a good way to order a set of ranges as well.*
+
 ### February – Volume 18, Number 2
 
 * P. J. Plauger. [*Standard C/C++: A Singly Linked List*](18.02/plauger/plauger.md)\
