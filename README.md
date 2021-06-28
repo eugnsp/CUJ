@@ -145,6 +145,9 @@
 * Scott Meyers. [*How Non-Member Functions Improve Encapsulation*](18.02/meyers/meyers.md)\
 *When it comes to encapsulation, sometimes less is more.*
 
+* Douglas Reichard. [*Shim Classes*](18.02/reichard/reichard.md)\
+*You don’t always have to rewrite ordinary classes as templates to get the benefits of templatization.*
+
 * P. J. Plauger. [*Standard C/C++: A Singly Linked List*](18.02/plauger/plauger.md)\
 *Every design involves tradeoffs. The trick is to tradeoff using much the same principles as for related designs.*
 
