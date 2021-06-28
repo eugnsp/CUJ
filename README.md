@@ -142,6 +142,9 @@
 
 ### February – Volume 18, Number 2
 
+* Scott Meyers. [*How Non-Member Functions Improve Encapsulation*](18.02/meyers/meyers.md)\
+*When it comes to encapsulation, sometimes less is more.*
+
 * P. J. Plauger. [*Standard C/C++: A Singly Linked List*](18.02/plauger/plauger.md)\
 *Every design involves tradeoffs. The trick is to tradeoff using much the same principles as for related designs.*
 
