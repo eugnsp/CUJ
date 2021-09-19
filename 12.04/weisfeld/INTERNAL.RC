@@ -1,0 +1,37 @@
+/************************************************************
+ Listing 2
+
+ File        : internal.rc
+
+ Author      : Matt Weisfeld
+
+ Description : menu definitions for internal.c
+************************************************************/
+#include "internal.h"
+
+1 MENU
+    {
+    POPUP "&File"
+        {
+	MENUITEM "&New",        	WM_FILE_NEW
+        MENUITEM "&Open...",    	WM_FILE_OPEN
+        MENUITEM "&Save",       	WM_FILE_SAVE
+        MENUITEM "Save &As...", 	WM_FILE_SAVE_AS
+	MENUITEM "Save &All...", 	WM_FILE_SAVE_ALL
+	MENUITEM SEPARATOR
+        MENUITEM "&Print",      	WM_FILE_PRINT
+	MENUITEM "P&rinter setup...",   WM_FILE_PRINTER_SETUP
+	MENUITEM SEPARATOR
+        MENUITEM "E&xit",       	WM_FILE_EXIT
+        }
+    POPUP "&Edit"
+        {
+        MENUITEM "&Undo",   	        WM_EDIT_UNDO
+	MENUITEM "&Redo",   	        WM_EDIT_REDO
+	MENUITEM SEPARATOR
+        MENUITEM "Cu&t",                WM_EDIT_CUT
+        MENUITEM "&Copy",      	        WM_EDIT_COPY
+        MENUITEM "&Paste",              WM_EDIT_PASTE
+	MENUITEM "Cl&ear",              WM_EDIT_CLEAR
+	}
+    }

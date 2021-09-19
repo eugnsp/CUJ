@@ -35,6 +35,11 @@
 
 * Dan Saks. [*Stepping Up to C++: How Virtual Functions Work*](12.01/saks/saks.md)
 
+### April – Volume 12, Number 4
+
+* Matt Weisfeld. [*An Alternative to Large Switch Statements*](12.04/weisfeld/weisfeld.md)\
+*There’s more than one way to write a case switch, and some are definitely better than others when the number of cases gets large.*
+
 ### October – Volume 12, Number 10
 
 * Christopher Skelly. [*Powerful Pointers to Member Functions*](12.10/skelly/skelly.md)\
